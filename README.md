@@ -1,2 +1,2 @@
-# Coding Health-Calculator
+# Coding Health-Calculators
 Empowering Healthcare: Python-based Medical Calculators for Accurate and Efficient Results
